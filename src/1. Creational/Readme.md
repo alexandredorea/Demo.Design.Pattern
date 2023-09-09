@@ -30,8 +30,8 @@ Lembrando que menos acoplado significa ser menos dependente de outros módulos e
 - [ ] [**Singleton**][singleton_pattern]
 
 
-[simple_factory_pattern]: <>
-[factory_method_pattern]: <>
+[simple_factory_pattern]: <https://github.com/alexandredorea/Demo.Design.Pattern/tree/master/src/1.%20Creational/SimpleFactory>
+[factory_method_pattern]: <https://github.com/alexandredorea/Demo.Design.Pattern/tree/master/src/1.%20Creational/FactoryMethod>
 [abstract_factory_pattern]: <>
 [builder_pattern]: <>
 [prototype_pattern]: <>

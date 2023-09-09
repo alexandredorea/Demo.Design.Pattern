@@ -111,7 +111,7 @@ A tabela a seguir permite visualizar a classificação dos padrões de projeto, 
 		</tr>
 		<tr> 
 			<th colspan="2">&nbsp;</th>
-			<th align="center"><a href="http://example.com">Criação</a></th>
+			<th align="center"><a href="https://github.com/alexandredorea/Demo.Design.Pattern/tree/master/src/1.%20Creational">Criação</a></th>
 			<th align="center"><a href="http://example.com">Estrutura</a></th>
 			<th align="center"><a href="http://example.com">Comportamento</a></th>
 		</tr>

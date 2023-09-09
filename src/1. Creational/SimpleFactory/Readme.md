@@ -134,6 +134,7 @@ static void Main(string[] args)
 
 ### Diagrama de classes do Simple Factory Pattern
 
+![image](https://github.com/alexandredorea/Demo.Design.Pattern/assets/11574354/d2363228-7d8e-4501-8844-72b971eeb93c)
 
 ## Conclusão
 
