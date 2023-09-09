@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Domain.CreditCardTransaction">
+    <Position X="0.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Domain\CreditCardTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Domain.DebitTransaction">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Domain\DebitTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Domain.PaymentSlipTransaction">
+    <Position X="5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACABAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\PaymentSlipTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Domain.Base.TransactionBase">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAABAAAABAAAgAAACAAAAGAAAAAAAEAAAAEAAAAAAA=</HashCode>
+      <FileName>Domain\Base\TransactionBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Applitation.Processors.CrediCardTransactionProcessor" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Applitation\Processors\CrediCardTransactionProcessor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Applitation.Processors.DebitTransactionProcessor" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Applitation\Processors\DebitTransactionProcessor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Applitation.Processors.PaymentSlipTransactionProcessor" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Applitation\Processors\PaymentSlipTransactionProcessor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Applitation.Processors.Base.ProcessorBase&lt;T&gt;">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applitation\Processors\Base\ProcessorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo.Design.Pattern.SimpleFactory.Applitation.Factories.TransactionProcessorFactory">
+    <Position X="5" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applitation\Factories\TransactionProcessorFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Demo.Design.Pattern.SimpleFactory.Applitation.Processors.Interfaces.ITransactionProcessor">
+    <Position X="13" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applitation\Processors\Interfaces\ITransactionProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Demo.Design.Pattern.SimpleFactory.Domain.ValueObjects.TransactionStatusType">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAIBAAAAA=</HashCode>
+      <FileName>Domain\ValueObjects\TransactionStatusType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Demo.Design.Pattern.SimpleFactory.Domain.ValueObjects.TransactionType">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Domain\ValueObjects\TransactionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
