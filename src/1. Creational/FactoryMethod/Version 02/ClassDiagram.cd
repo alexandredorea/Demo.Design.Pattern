@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.MoneyBank">
+    <Position X="3.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\MoneyBank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.Platinum">
+    <Position X="3.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Platinum.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.Titanium">
+    <Position X="3.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Titanium.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Interfaces.CreditCardFactory">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Interfaces\CreditCardFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Application.Factories.TitaniumFactory" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Factories\TitaniumFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Application.Factories.PlatinumFactory" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Factories\PlatinumFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Demo.Design.Pattern.FactoryMethod.Interfaces.ICreditCard">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Interfaces\ICreditCard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

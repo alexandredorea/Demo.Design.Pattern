@@ -1,6 +1,6 @@
-﻿using Demo.Design.Pattern.FactoryMethod.Application.Interfaces;
+﻿namespace Demo.Design.Pattern.FactoryMethod.Domain;
 
-namespace Demo.Design.Pattern.FactoryMethod.Domain.Models;
+using Demo.Design.Pattern.FactoryMethod.Application.Interfaces;
 
 internal sealed class WallFan : IFan
 {

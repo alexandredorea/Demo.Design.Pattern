@@ -15,11 +15,7 @@ Simple Factory geralmente não têm subclasses. Mas após extrair subclasses de 
 
 A propósito, se você declarar uma Simple Factory como abstract, ela não se torna um padrão Abstract Factory magicamente.
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/note.svg">
->   <img alt="Informação" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/note.svg">
-> </picture>
->
+> ℹ️ **Nota**  
 > O padrão Simple Factory foi definido no livro [Use a Cabeça!: Padrões de Projetos](https://www.amazon.com.br/-/dp/8576081741/).
 
 
@@ -151,7 +147,7 @@ Sabemos, portanto, como o Simple Factory Pattern resolve todos os problemas menc
 - Ao usar `FanFactory` podemos simplesmente ter métodos com nomes diferentes e mais descritivos que retornariam um objeto `IFan`. Em nosso aplicativo de exemplo, `FanFactory` pode ter um método público `CreateTableFanByModelNumber(int modelNumber)` exposto ao cliente.
 
 
-Mas, digamos que no futuro, se a `FanFactory` também tiver que fazer um novo tipo de ventilador chamado `WallFan`. Para adotar este novo requisito, temos que alterar o método `CreateFan` e adicionar um `switch case` para o tipo `WallFan`. Se novamente um novo tipo de ventilador for introduzido, mais um caso precisará ser adicionado. Isto será uma violação do `Princípio Aberto Fechado` dos princípios SOLID. Com a ajuda do [Factory Method Pattern]() podemos superar esse problema desta violação.
+Mas, digamos que no futuro, se a `FanFactory` também tiver que fazer um novo tipo de ventilador chamado `WallFan`. Para adotar este novo requisito, temos que alterar o método `CreateFan` e adicionar um `switch case` para o tipo `WallFan`. Se novamente um novo tipo de ventilador for introduzido, mais um caso precisará ser adicionado. Isto será uma violação do `Princípio Aberto Fechado` dos princípios SOLID. Com a ajuda do [Factory Method Pattern](https://github.com/alexandredorea/Demo.Design.Pattern/tree/master/src/1.%20Creational/FactoryMethod) podemos superar esse problema desta violação.
 
 
 ## Fontes:

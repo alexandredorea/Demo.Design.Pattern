@@ -32,35 +32,35 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.Models.CeilingFan">
-    <Position X="8.25" Y="1.5" Width="1.5" />
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.CeilingFan">
+    <Position X="8.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Domain\Models\CeilingFan.cs</FileName>
+      <FileName>Domain\CeilingFan.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.Models.ExhaustFan">
-    <Position X="8.25" Y="4" Width="1.5" />
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.ExhaustFan">
+    <Position X="8.5" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Domain\Models\ExhaustFan.cs</FileName>
+      <FileName>Domain\ExhaustFan.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.Models.TableFan">
-    <Position X="8.25" Y="6.5" Width="1.5" />
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.TableFan">
+    <Position X="8.5" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Domain\Models\TableFan.cs</FileName>
+      <FileName>Domain\TableFan.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.Models.WallFan">
-    <Position X="8.25" Y="9" Width="1.5" />
+  <Class Name="Demo.Design.Pattern.FactoryMethod.Domain.WallFan">
+    <Position X="8.5" Y="9" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Domain\Models\WallFan.cs</FileName>
+      <FileName>Domain\WallFan.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>

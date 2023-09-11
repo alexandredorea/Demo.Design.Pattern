@@ -1,12 +1,12 @@
-﻿namespace Demo.Design.Pattern.FactoryMethod.Domain.Models;
+﻿namespace Demo.Design.Pattern.FactoryMethod.Domain;
 
 using Demo.Design.Pattern.FactoryMethod.Application.Interfaces;
 
-internal sealed class TableFan : IFan
+internal sealed class CeilingFan : IFan
 {
     public string Name { get; private set; }
 
-    public TableFan(string name)
+    public CeilingFan(string name)
     {
         Name = name;
     }

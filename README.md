@@ -60,11 +60,7 @@ Geralmente a necessidade de padrões surge quando as pessoas escolhem uma lingua
 
 Por exemplo, o padrão [Strategy]() pode ser implementado com uma simples função anônima (lambda) na maioria das linguagens de programação moderna.
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
->   <img alt="Informação" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
-> </picture>  
->
+> ℹ️ **Informação**  
 > Esse ponto de vista foi primariamente expresso por [Paul Graham](https://pt.wikipedia.org/wiki/Paul_Graham) no estudo [Revenge of the Nerds](http://www.paulgraham.com/icad.html). Leia mais sobre isso na [Página Wiki](http://wiki.c2.com/?AreDesignPatternsMissingLanguageFeatures).
 
 
