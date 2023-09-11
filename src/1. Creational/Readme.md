@@ -23,7 +23,7 @@ Lembrando que menos acoplado significa ser menos dependente de outros módulos e
 ### Os padrões de projetos
 
 - [x] [**Simple Factory**][simple_factory_pattern]
-- [ ] [**Factory Method**][factory_method_pattern]
+- [x] [**Factory Method**][factory_method_pattern]
 - [ ] [**Abstract Factory**][abstract_factory_pattern]
 - [ ] [**Builder**][builder_pattern]
 - [ ] [**Prototype**][prototype_pattern]

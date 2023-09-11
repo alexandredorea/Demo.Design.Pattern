@@ -116,7 +116,7 @@ A tabela a seguir permite visualizar a classificação dos padrões de projeto, 
 		<tr> 
 			<th rowspan="11" align="center">Escopo</th>
 			<th align="center">Classe</th>
-			<td><a href="http://example.com">Factory Method</a></td>
+			<td><a href="https://github.com/alexandredorea/Demo.Design.Pattern/tree/master/src/1.%20Creational/FactoryMethod">Factory Method</a></td>
 			<td><a href="http://example.com">Class Adapter</a></td>
 			<td><a href="http://example.com">Interpreter <br> Template Method</a></td>
 		</tr>

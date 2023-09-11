@@ -127,7 +127,7 @@ static void Main(string[] args)
 | Escrever casos de teste de unidade é fácil com o Factory Method Pattern em comparação com o [Simple Factory Pattern](https://github.com/alexandredorea/Demo.Design.Pattern/tree/master/src/1.%20Creational/SimpleFactory), uma vez que o `switch case` (ou blocos longos de if-else) não é usado. | |
 | Para oferecer suporte a produtos adicionais, não modificamos o código existente, apenas adicionamos uma nova classe Factory, portanto, não há necessidade de executar novamente os testes de unidade antigos existentes. | |
 | O cliente chama `CreateFan` (Factory Method) sem saber como e qual tipo real de objeto foi criado. | |
-| Se estivermos usando uma classe abstrata como BaseFanFactory (em vez de IFanFactory), podemos fornecer implementação de métodos comuns na classe abstrata BaseFanFactory, apenas declarar o método CreateFan como abstrato. Com base nos requisitos, podemos ter métodos mais abstratos em BaseFanFactory. | |
+| Se estivermos usando uma classe abstrata como `BaseFanFactory` (em vez de `IFanFactory`), podemos fornecer implementação de métodos comuns na classe abstrata `BaseFanFactory`, apenas declarar o método `CreateFan` como abstrato. Com base nos requisitos, podemos ter métodos mais abstratos em `BaseFanFactory`. | |
 
 ## Conclusão
 
