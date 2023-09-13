@@ -7,8 +7,8 @@
 
 <br>
 
->  [!["Me compre um cafezinho"](https://img.shields.io/badge/Me_compre_um_cafezinho-4DB6AC?style=for-the-badge&logo=pix&logoColor=white)]()  
-> *Se esse repositório ajudar você de alguma forma com dos conceitos e exemplos abordados, considere em deixar uma :star: e/ou um <a href="https://example.com"><img width="16" height="16" src="https://img.icons8.com/color/48/pix.png" alt="Me compre um café com pix"/></a>. O seu apoio também me motiva a produzir mais conteúdos assim, obrigado!*
+>  [!["Me compre um cafezinho"](https://img.shields.io/badge/Me_compre_um_cafezinho-4DB6AC?style=for-the-badge&logo=pix&logoColor=white)](https://nubank.com.br/pagar/2sajc/v833ivyBSo)  
+> *Se esse repositório ajudar você de alguma forma com dos conceitos e exemplos abordados, considere em deixar uma :star: e/ou um <a href="https://nubank.com.br/pagar/2sajc/v833ivyBSo"><img width="16" height="16" src="https://img.icons8.com/color/48/pix.png" alt="Me compre um café com pix"/></a>. O seu apoio também me motiva a produzir mais conteúdos assim, obrigado!*
 
 <br>
 
