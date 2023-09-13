@@ -3,8 +3,14 @@
 
 ## Introdução
 
-[Meir Lehman](https://pt.wikipedia.org/wiki/Meir_M._Lehman) uma vez disse que "*grandes sistemas de software nunca são concluídos, eles simplesmente continuam evoluindo*". Pensando nesta ideia, percebemos que os problemas no desenvolvimento de softwares surgem cada vez mais. E foi assim alguns programadores mais experientes começaram a perceber que os mesmos problemas voltavam a aparecer varias e varias vezes; que a solução para eles eram sempre os mesmos e, então, começaram a catalogar esses "padrões". E foi em 1977 o conceito de *Design Pattern* foi apresentado por [Christopher Alexander](https://pt.wikipedia.org/wiki/Christopher_Alexander) e, em seus livros [Uma linguagem de padrões](https://www.amazon.com/-/pt/dp/B07J1T8P1W/), [Notas sobre a síntese da forma](https://www.amazon.com/-/pt/dp/B09Z9LNFG5/) e [A maneira atemporal de construir](https://www.amazon.com/-/pt/dp/0195024028/), ele estabelece o que um *Pattern* deve ter.
+[Meir Lehman](https://pt.wikipedia.org/wiki/Meir_M._Lehman) uma vez disse que "*grandes sistemas de software nunca são concluídos, eles simplesmente continuam evoluindo*". E foi possivelmente desta premissa assim alguns programadores mais experientes começaram a perceber que os mesmos problemas voltavam a aparecer varias e varias vezes; que a solução para eles eram sempre os mesmos e, então, começaram a catalogar esses "padrões". E foi em 1977 o conceito de *Design Pattern* foi apresentado por [Christopher Alexander](https://pt.wikipedia.org/wiki/Christopher_Alexander) e, em seus livros [Uma linguagem de padrões](https://www.amazon.com/-/pt/dp/B07J1T8P1W/), [Notas sobre a síntese da forma](https://www.amazon.com/-/pt/dp/B09Z9LNFG5/) e [A maneira atemporal de construir](https://www.amazon.com/-/pt/dp/0195024028/), ele estabelece o que um *Pattern* deve ter.
 
+<br>
+
+>  [!["Me compre um cafezinho"](https://img.shields.io/badge/Me_compre_um_cafezinho-4DB6AC?style=for-the-badge&logo=pix&logoColor=white)]()  
+> *Se esse repositório ajudar você de alguma forma com dos conceitos e exemplos abordados, considere em deixar uma :star: e/ou um <a href="https://example.com"><img width="16" height="16" src="https://img.icons8.com/color/48/pix.png" alt="Me compre um café com pix"/></a>. O seu apoio também me motiva a produzir mais conteúdos assim, obrigado!*
+
+<br>
 
 ## O que é um padrão de projeto?
 
